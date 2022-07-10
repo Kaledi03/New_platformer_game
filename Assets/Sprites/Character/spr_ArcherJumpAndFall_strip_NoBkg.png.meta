@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 9f8792358e01f05a2bae193e81c831e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2219065651456378354
+    second: spr_ArcherJumpAndFall_strip_NoBkg_0
+  - first:
+      213: 909036703281560809
+    second: spr_ArcherJumpAndFall_strip_NoBkg_1
+  - first:
+      213: 2697561521814206091
+    second: spr_ArcherJumpAndFall_strip_NoBkg_2
+  - first:
+      213: -3263904415398710611
+    second: spr_ArcherJumpAndFall_strip_NoBkg_3
+  - first:
+      213: 6197709404368266594
+    second: spr_ArcherJumpAndFall_strip_NoBkg_4
+  - first:
+      213: 5576746003819696004
+    second: spr_ArcherJumpAndFall_strip_NoBkg_5
+  - first:
+      213: 6995673144358672470
+    second: spr_ArcherJumpAndFall_strip_NoBkg_6
+  - first:
+      213: -7798071144570975379
+    second: spr_ArcherJumpAndFall_strip_NoBkg_7
+  - first:
+      213: 4074719310926259543
+    second: spr_ArcherJumpAndFall_strip_NoBkg_8
+  - first:
+      213: 1477694705114700619
+    second: spr_ArcherJumpAndFall_strip_NoBkg_9
+  - first:
+      213: -4636590942019407041
+    second: spr_ArcherJumpAndFall_strip_NoBkg_10
+  - first:
+      213: -3653751484265009736
+    second: spr_ArcherJumpAndFall_strip_NoBkg_11
+  - first:
+      213: -7872264537728449277
+    second: spr_ArcherJumpAndFall_strip_NoBkg_0
+  - first:
+      213: 7221340373589216402
+    second: spr_ArcherJumpAndFall_strip_NoBkg_1
+  - first:
+      213: -8032155157801286111
+    second: spr_ArcherJumpAndFall_strip_NoBkg_2
+  - first:
+      213: 571129219263704133
+    second: spr_ArcherJumpAndFall_strip_NoBkg_3
+  - first:
+      213: -1869543135837039811
+    second: spr_ArcherJumpAndFall_strip_NoBkg_4
+  - first:
+      213: -4560034784865318874
+    second: spr_ArcherJumpAndFall_strip_NoBkg_5
+  - first:
+      213: 942281428267061378
+    second: spr_ArcherJumpAndFall_strip_NoBkg_6
+  - first:
+      213: -3427541423950556668
+    second: spr_ArcherJumpAndFall_strip_NoBkg_7
+  - first:
+      213: -5527972888742805351
+    second: spr_ArcherJumpAndFall_strip_NoBkg_8
+  - first:
+      213: -8073730037245026202
+    second: spr_ArcherJumpAndFall_strip_NoBkg_9
+  - first:
+      213: 4874294368157129958
+    second: spr_ArcherJumpAndFall_strip_NoBkg_10
+  - first:
+      213: 8634747270460337947
+    second: spr_ArcherJumpAndFall_strip_NoBkg_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058acaac1910c290800000000000000
+      internalID: -7872264537728449277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cc8f93fca573460800000000000000
+      internalID: 7221340373589216402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 56
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ce6ea07d088090800000000000000
+      internalID: -8032155157801286111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 59
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2f0bbffe0de700800000000000000
+      internalID: 571129219263704133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 58
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d9285c6c0e06e0800000000000000
+      internalID: -1869543135837039811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 55
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6288da4f58087b0c0800000000000000
+      internalID: -4560034784865318874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 55
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805e4277f7a31d00800000000000000
+      internalID: 942281428267061378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 52
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029d7c1c3dee60d0800000000000000
+      internalID: -3427541423950556668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 52
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ce7632f1b843b0800000000000000
+      internalID: -5527972888742805351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 52
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660eb9dbe4954ff80800000000000000
+      internalID: -8073730037245026202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_10
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 52
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec51b817e8f4a340800000000000000
+      internalID: 4874294368157129958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherJumpAndFall_strip_NoBkg_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 52
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fef05c4e8c4d770800000000000000
+      internalID: 8634747270460337947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
