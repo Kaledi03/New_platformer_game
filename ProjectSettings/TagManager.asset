@@ -14,6 +14,7 @@ TagManager:
   - GreenGem
   - PlayerWeapon
   - EnemyWeapon
+  - Camera
   layers:
   - Default
   - TransparentFX
