@@ -19,6 +19,7 @@ public class DeathAndHurtManager : MonoBehaviour
     private Vector3 startPoint;
     int remainingLives = 2;
     public Animator heartImm;
+    Parallaxing[] parallaxingScripts;
     
     void Start()
     {
@@ -41,7 +42,12 @@ public class DeathAndHurtManager : MonoBehaviour
             transiotionAnim.SetTrigger("end");
             called = true;
             sprite_renderer.color = new Color(255f, 255f, 255f, 0f);
-            particleEffect.Play();
+            parallaxingScripts = (Parallaxing[]) GameObject.FindObjectsOfType(typeof(Parallaxing));
+            foreach (Parallaxing script in parallaxingScripts)
+            {
+                script.Reset_Position();
+            }
+            //particleEffect.Play();
             //particle effect
         }
     }

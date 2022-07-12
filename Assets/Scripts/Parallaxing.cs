@@ -11,13 +11,16 @@ public class Parallaxing : MonoBehaviour
     public float parallaxingFactor;
     Vector3 oldCameraPosition;
     Transform objectTransform;
+    float initialX;
     
 
     void Start()
     {
         objectTransform = GetComponent<Transform>();
+        initialX = objectTransform.position.x;
         oldCameraPosition = new Vector3(cameraTransform.position.x, cameraTransform.position.y, cameraTransform.position.z);
     }
+
 
     void Update()
     {
@@ -28,5 +31,10 @@ public class Parallaxing : MonoBehaviour
         }
         // Set the old position of the camera as the actual position
         oldCameraPosition = new Vector3(cameraTransform.position.x, cameraTransform.position.y, cameraTransform.position.z);
+    }
+    
+
+    public void Reset_Position(){
+        objectTransform.position = new Vector3(initialX, objectTransform.position.y, objectTransform.position.z);
     }
 }
